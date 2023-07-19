@@ -10,6 +10,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "@shopify/flash-list": "^1.5.0",
     "react": "18.2.0",
     "react-native": "0.71.7",
     "react-native-design-utility": "https://github.com/jradev/react-native-design-utility"
